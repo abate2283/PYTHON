@@ -1,0 +1,5 @@
+friends = ("John", "Peter", "Jane")
+print(friends)
+friends = friends + ("Nancy",)
+print(friends)
+#To add an element to a tuple use friends = friends + ("item",)
